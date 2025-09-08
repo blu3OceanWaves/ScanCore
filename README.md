@@ -19,6 +19,29 @@
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/ScanCore.git
+git clone https://github.com/blu3OceanWaves/ScanCore
 cd ScanCore
+```
+
+2. Ensure you have Python 3.10+ installed
+  
+3. Install required dependencies:
+```bash
+pip install rich
+```
+
+4. Make the script executable (optional):
+```bash
+chmod +x ScanCore
+```
+
+---
+
+## Contact & Collaboration
+
+If you encounter any bugs, have questions, or want to suggest features, feel free to contact me.  
+
+You can reach me here:  
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/yassin-el-wardioui-34016b332/)
+
 
