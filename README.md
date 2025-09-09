@@ -19,7 +19,7 @@
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/blu3OceanWaves/ScanCore
+git clone https://github.com/blu3OceanWaves/ScanCore.git
 cd ScanCore
 ```
 
